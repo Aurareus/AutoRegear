@@ -1,0 +1,3 @@
+displayName = Auto Regear
+author = Aurareus
+version = 1.0.0

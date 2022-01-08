@@ -1,0 +1,3 @@
+Auto Regear was created to solve the problem of having to re-equip and re-organize your items after getting back to your death pile when playing a mediumcore character.
+
+Auto Regear allows you to save the items in your hotbar, ammo, armor, accessories, equipment, vanity and dye slots to a loadout and have them automatically placed back into their assigned slot in the loadout on pickup.
