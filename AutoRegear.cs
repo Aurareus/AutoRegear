@@ -70,6 +70,10 @@ namespace AutoRegear
             public override void Initialize()
             {
                 GearLoadout = new List<Item>();
+                for (int i = 0; i < 54; i++)
+                {
+                    GearLoadout.Add(new Item());
+                }
                 RegearEnabled = true;
             }
 
