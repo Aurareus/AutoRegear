@@ -1,3 +1,6 @@
 displayName = Auto Regear
 author = Aurareus
-version = 0.2.0
+version = 1.0.0
+homepage = https://github.com/Aurareus/AutoRegear
+hideCode = false
+includeSource = true
